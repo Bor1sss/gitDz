@@ -1,13 +1,11 @@
 #include <iostream>
 using namespace std;
-class Person {
+
+class student {
 	string name;
 	int age;
 public:
-
-
 };
-
 
 
 int main() {
